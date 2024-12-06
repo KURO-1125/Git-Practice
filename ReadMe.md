@@ -1,9 +1,7 @@
 # This is a practice Repo where I am practicing Git and GitHub.
-## This will be deleted after I am done practicing.
 
-If authorizatiion error occurs - 
-git config --global user.name "your_username"
-git config --global user.email "your_email@example.com"
-
-git config --global user.password "SECRET TOKEN"
-git config --global credentials.username "GITHUB USERNAME"
+# If authorizatiion error occurs - 
+1. git config --global user.name "your_username"
+2. git config --global user.email "your_email@example.com"
+3. git config --global user.password "SECRET TOKEN"
+4. git config --global credentials.username "GITHUB USERNAME"
