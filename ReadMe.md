@@ -1,4 +1,4 @@
-# THIS IS TEAM1 BRANCH
+# THIS IS TEAM2 BRANCH
 
 ## This is a practice Repo where I am practicing Git and GitHub.
 
